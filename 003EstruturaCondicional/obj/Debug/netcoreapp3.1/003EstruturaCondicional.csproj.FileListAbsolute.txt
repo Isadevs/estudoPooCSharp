@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\bin\Debug\netcoreapp3.1\003EstruturaCondicional.exe
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\bin\Debug\netcoreapp3.1\003EstruturaCondicional.deps.json
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\bin\Debug\netcoreapp3.1\003EstruturaCondicional.runtimeconfig.json
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\bin\Debug\netcoreapp3.1\003EstruturaCondicional.runtimeconfig.dev.json
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\bin\Debug\netcoreapp3.1\003EstruturaCondicional.dll
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\bin\Debug\netcoreapp3.1\003EstruturaCondicional.pdb
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\obj\Debug\netcoreapp3.1\003EstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\obj\Debug\netcoreapp3.1\003EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\obj\Debug\netcoreapp3.1\003EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\obj\Debug\netcoreapp3.1\003EstruturaCondicional.AssemblyInfo.cs
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\obj\Debug\netcoreapp3.1\003EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\obj\Debug\netcoreapp3.1\003EstruturaCondicional.dll
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\obj\Debug\netcoreapp3.1\003EstruturaCondicional.pdb
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\003EstruturaCondicional\obj\Debug\netcoreapp3.1\003EstruturaCondicional.genruntimeconfig.cache

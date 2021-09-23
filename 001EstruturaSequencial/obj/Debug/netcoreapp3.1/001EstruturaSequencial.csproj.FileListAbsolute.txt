@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\bin\Debug\netcoreapp3.1\001EstruturaSequencial.exe
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\bin\Debug\netcoreapp3.1\001EstruturaSequencial.deps.json
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\bin\Debug\netcoreapp3.1\001EstruturaSequencial.runtimeconfig.json
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\bin\Debug\netcoreapp3.1\001EstruturaSequencial.runtimeconfig.dev.json
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\bin\Debug\netcoreapp3.1\001EstruturaSequencial.dll
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\bin\Debug\netcoreapp3.1\001EstruturaSequencial.pdb
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\obj\Debug\netcoreapp3.1\001EstruturaSequencial.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\obj\Debug\netcoreapp3.1\001EstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\obj\Debug\netcoreapp3.1\001EstruturaSequencial.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\obj\Debug\netcoreapp3.1\001EstruturaSequencial.AssemblyInfo.cs
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\obj\Debug\netcoreapp3.1\001EstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\obj\Debug\netcoreapp3.1\001EstruturaSequencial.dll
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\obj\Debug\netcoreapp3.1\001EstruturaSequencial.pdb
+C:\Users\Dell\Documents\cursoProgramação\c#\pooNelioAlves\estudoPooCSharp\001\obj\Debug\netcoreapp3.1\001EstruturaSequencial.genruntimeconfig.cache
