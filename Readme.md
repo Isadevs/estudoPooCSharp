@@ -1,6 +1,8 @@
-Olá, este é o repositório dos meus estudos em Programação Orientada a Objetos do 
+OlÃ¡, este Ã© o repositÃ³rio dos meus estudos em ProgramaÃ§Ã£o Orientada a Objetos do 
 professor: Nelio Alves.
 
-Nele, você encontrará:
-*Exercícios;
+Nele, vocÃª encontrarÃ¡ resoluÃ§Ã£o de:
+*ExercÃ­cios;
 *Projetos;
+
+Propostos, durante as aulas.
